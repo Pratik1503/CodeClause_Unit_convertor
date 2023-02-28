@@ -1,0 +1,34 @@
+
+.container{
+   border-style:groove;
+   border-radius: 8px;
+   margin:10rem 10rem 0 10rem;
+   padding: 2rem;
+   background-color: yellow;
+
+}
+
+.container-title{
+    text-align: center;
+}
+ 
+.selectUnit {
+        display: flex;
+        flex-direction: row;
+        justify-content: space-around;
+}
+
+#input{
+    position: relative;
+    left:11rem;
+
+}
+
+#result{
+    position: relative;
+    left:26.5rem;
+}
+span{
+    position: relative;
+    left:18rem;
+}
